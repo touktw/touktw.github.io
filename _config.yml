@@ -20,3 +20,9 @@ github_username:  touktw
 # Build settings
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+
+#comments
+comments :
+  provider : disqus
+  disqus :
+    short_name : Taewoo
