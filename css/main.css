@@ -1,7 +1,17 @@
+.site-header {
+    font-family: 'Montez', 'Lato', 'Helvetica', 'Arial', 'Sans-Serif';
+    font-size: 3em;
+    line-height: 20%;
+}
 
 body {
     margin: 60px auto;
     width: 70%;
+}
+.separator {
+  border-bottom: 1px solid #E6E6E6;
+  padding-bottom: 1em;
+  margin-bottom: 1.5em;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -20,9 +30,12 @@ a {
 a:hover {
     text-decoration: underline;
 }
-h1 {
+
+h1 !h1.site-header {
     font-size: 3em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family: 'Lato', 'Helvetica', 'Arial', 'Sans-Serif';
+    font-weight: 900;
+
 }
 p {
     font-size: 1.5em;
@@ -42,3 +55,41 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+h3 !h3.site-header {
+    text-indent: 30px;
+}
+
+div.post-content {
+    font-family: 'Lato', 'Helvetica', 'Arial', 'Sans-Serif';
+    font-weight: 300;
+}
+
+h1.post-title {
+    font-size: 3em;
+    font-family: 'Oswald', 'Helvetica', 'Arial', 'Sans-Serif';
+    font-weight: 700;
+}
+
+div.post-content blockquote {
+  background: #f9f9f9;
+  border-left: 10px solid #ccc;
+  margin: 1.5em 10px;
+  padding: 0.5em 10px;
+  quotes: "\201C""\201D""\2018""\2019";
+  font-style: italic;
+  font-weight: 100;
+}
+/*div.post-content blockquote:before {
+  color: #ccc;
+  content: open-quote;
+  font-size: 4em;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
+}*/
+div.post-content blockquote p {
+  display: inline;
+}
+
+
