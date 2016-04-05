@@ -1,8 +1,13 @@
 .site-header {
     font-family: 'Montez', 'Lato', 'Helvetica', 'Arial', 'Sans-Serif';
     font-size: 3em;
-    line-height: 20%;
+    line-height: 0%;
 }
+
+img, h3{
+    display: inline;
+}
+
 
 body {
     margin: 60px auto;
