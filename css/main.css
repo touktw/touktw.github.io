@@ -4,10 +4,10 @@
     line-height: 0%;
 }
 
-img, h3{
+/*img, h3{
     display: inline;
 }
-
+*/
 
 body {
     margin: 60px auto;
@@ -95,6 +95,10 @@ div.post-content blockquote {
 }*/
 div.post-content blockquote p {
   display: inline;
+}
+
+#title_img {
+    float:left;
 }
 
 
