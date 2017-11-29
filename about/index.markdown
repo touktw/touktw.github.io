@@ -5,6 +5,7 @@ title: ""
 # Taewoo
 -----
 
+<a href="intent://open?#Intent;scheme=tbal;action=android.intent.action.VIEW;category=android.intent.category.BROWSABLE;package=com.kim.teo.test;end">tttt</a>
 <a href="intent://open?#Intent;scheme=tbal;action=android.intent.action.VIEW;category=android.intent.category.BROWSABLE;package=com.kim.teo.test;end">test</a>
 
 <a href="http://truebalance.io">test2</a>
