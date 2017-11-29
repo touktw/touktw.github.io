@@ -4,7 +4,8 @@ title: ""
 ---
 # Taewoo
 -----
-
+"intent://open?#Intent;scheme=tbal;action=android.intent.action.VIEW;category=android.intent.category.BROWSABLE;package=com.balancehero.truebalance;end"
+<p>
 <a href="intent://open?#Intent;scheme=tbal;action=android.intent.action.VIEW;category=android.intent.category.BROWSABLE;package=com.balancehero.truebalance;end">TBAL</a>
 
 <a href="http://truebalance.io">test2</a>
