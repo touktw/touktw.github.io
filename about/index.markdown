@@ -6,7 +6,7 @@ title: ""
 -----
 "intent://open?#Intent;scheme=tbal;action=android.intent.action.VIEW;category=android.intent.category.BROWSABLE;package=com.balancehero.truebalance;end"
 <p>
-<a href="intent://open?#Intent;scheme=tbal;action=android.intent.action.VIEW;category=android.intent.category.BROWSABLE;package=com.balancehero.truebalance;end">TBAL</a>
+<a href="intent://open?#Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;package=com.balancehero.truebalance;end">TBAL</a>
 
 <a href="http://truebalance.io">test2</a>
 
